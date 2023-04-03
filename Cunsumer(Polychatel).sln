@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cunsumer(Polychatel)", "Cunsumer(Polychatel)\Cunsumer(Polychatel).csproj", "{61BCAF2A-31E4-40F4-9111-808864D6113E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer(Otpravitel)", "Producer(Otpravitel)\Producer(Otpravitel).csproj", "{FA3B7FBF-49D0-425A-B00A-FA5C9B1EB627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BCAF2A-31E4-40F4-9111-808864D6113E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BCAF2A-31E4-40F4-9111-808864D6113E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BCAF2A-31E4-40F4-9111-808864D6113E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BCAF2A-31E4-40F4-9111-808864D6113E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3B7FBF-49D0-425A-B00A-FA5C9B1EB627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B7FBF-49D0-425A-B00A-FA5C9B1EB627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B7FBF-49D0-425A-B00A-FA5C9B1EB627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B7FBF-49D0-425A-B00A-FA5C9B1EB627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165EB2B8-AA7F-4993-8C22-B09F393F8448}
+	EndGlobalSection
+EndGlobal

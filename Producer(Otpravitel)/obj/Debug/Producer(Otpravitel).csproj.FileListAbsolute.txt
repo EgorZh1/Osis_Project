@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\Producer(Otpravitel).exe.config
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\Producer(Otpravitel).exe
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\Producer(Otpravitel).pdb
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.dll
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.Video.dll
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.xml
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.Video.xml
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\obj\Debug\Producer(Otpravitel).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\obj\Debug\Producer(Otpravitel).csproj.CopyComplete
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\obj\Debug\Producer(Otpravitel).exe
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\obj\Debug\Producer(Otpravitel).pdb
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Producer(Otpravitel)\obj\Debug\Producer(Otpravitel).csproj.AssemblyReference.cache

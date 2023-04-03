@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\bin\Debug\Cunsumer(Polychatel).exe.config
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\bin\Debug\Cunsumer(Polychatel).exe
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\bin\Debug\Cunsumer(Polychatel).pdb
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer_Polychatel_.Form1.resources
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer_Polychatel_.Properties.Resources.resources
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer(Polychatel).csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer(Polychatel).csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer(Polychatel).exe
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer(Polychatel).pdb
+C:\Users\Asus\source\repos\Cunsumer(Polychatel)\Cunsumer(Polychatel)\obj\Debug\Cunsumer(Polychatel).csproj.AssemblyReference.cache
